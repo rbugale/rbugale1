@@ -1,2 +1,7 @@
 title: Minimal theme
 theme: jekyll-theme-minimal
+
+---
+---
+
+@import "{{ site.theme }}";
